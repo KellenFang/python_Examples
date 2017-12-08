@@ -49,9 +49,9 @@ tow.sort(key=len)
 one.sort(reverse=True)
 
 # in 判断值是否存在列表，存在返回True,反之False
-mum = [1,1,1,2,2,2,3,3,3,]
-1 in mum
-5 in mum
+mums = [1,1,1,2,2,2,3,3,3,]
+1 in mums
+5 in mums
 
 #将一个列表的值复制到另一个新的列表
 kes = [1,2,3,4]
